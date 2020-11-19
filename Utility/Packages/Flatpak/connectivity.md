@@ -2,7 +2,6 @@
 Some flatpak apps can't connect to the internet.
 
 ## Solution
-
 Add `rc-manager=symlink` to `[main]` section in  `/etc/NetworkManager/NetworkManager.conf`.
 
 Deelte the file at location:
