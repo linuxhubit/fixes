@@ -7,6 +7,7 @@ It is not an archive of complex articles and guides. Only (documented) and immed
 # Structure
 The archive is structured into categories and sub-categories. The main categories are generic, ex:
 
+- DesktopEnvironment
 - Networking
 - Media
 - Packages
@@ -14,6 +15,8 @@ The archive is structured into categories and sub-categories. The main categorie
 
 With their sub categories:
 
+- DesktopEnvironment
+  - Plasma
 - Networking
   - NetworkManager
   - ConnMan
