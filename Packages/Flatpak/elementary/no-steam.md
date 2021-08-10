@@ -6,9 +6,11 @@ Enable multiverse.
 
 ```
 dpkg --add-architecture i386
-sudo add-apt-repository multiverse
-sudo apt-get update
-sudo apt-get dist-upgrade
+add-apt-repository multiverse
+apt install software-properties-common
+apt update
+apt dist-upgrade
+apt install steam
 ```
 
 Ref: https://askubuntu.com/a/958965
