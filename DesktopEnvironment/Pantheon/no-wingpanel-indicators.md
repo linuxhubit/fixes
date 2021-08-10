@@ -4,7 +4,7 @@ There is no systemtray in wingpanel.
 ## Solution
 Install patched wingpanel-indicator-ayatana:
 
-```
+```bash
 mkdir ~/.tmp && cd ~/.tmp
 wget https://github.com/mdh34/elementary-indicators/releases/download/0.1/indicator-application-patched.deb
 dpkg -i indicator-application-patched.deb
