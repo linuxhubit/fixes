@@ -5,9 +5,9 @@ Steam is not available on elementary repositories.
 Enable multiverse.
 
 ```
+apt install software-properties-common
 dpkg --add-architecture i386
 add-apt-repository multiverse
-apt install software-properties-common
 apt update
 apt dist-upgrade
 apt install steam
